@@ -1,0 +1,42 @@
+:root{
+
+    /* rose */
+    --rose-800 : #71284E;
+    --rose-50 : #FFF7FB;
+
+    /* stone */
+    --stone-900 : #312E2C;
+    --stone-600 : #5F564D;
+    --stone-150 : #E3DDD7;
+    --stone-100 : #F3E5D7;
+
+    /* brown */
+    --brown-800 : #854632;
+}
+
+.typoOne{
+    line-height: 100%;
+    font-size: 2.5rem;
+}
+
+.typoTwo{
+  line-height: 100%;
+  font-size: 1.75rem;
+}
+
+.typoThree{
+    line-height: 100%;
+    font-size: 1.25rem;
+    font-weight: 800;
+}
+
+.typoFour{
+    line-height: 150%;
+    font-size: 1rem;
+}
+
+.typoFive{
+    line-height: 150%;
+    font-size: 1rem;
+    font-weight: bold;
+}
