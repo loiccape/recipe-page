@@ -103,7 +103,7 @@ img{
 /* Preparation div */
 .preparation{
     max-width: 656px;
-    max-height: 169px;
+    max-height: 172px;
     background-color: var(--rose-50);
     border-radius: 12px;
     padding: 24px;
@@ -125,6 +125,7 @@ img{
 .preparation ul li {
     position: relative;
     padding-left: 24px;
+    padding-top: 8px;
 }
 
 .preparation ul li::before {
@@ -146,6 +147,7 @@ img{
 
 .ingredients ul li{
     padding-left: 24px;
+  
 }
 
 .ingredients ul li::marker,
@@ -161,6 +163,7 @@ color: var(--brown-800);
 .instructions ul li,
 .nutrition ul li{
     margin-left: 26px;
+    padding-top: 8px;
 
 }
 
