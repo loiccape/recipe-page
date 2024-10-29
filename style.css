@@ -30,6 +30,8 @@
     line-height: 100%;
     font-size: 2.3rem;
     font-family: 'young';
+    font-weight: 100;
+    margin-bottom: 24px;
 }
 
 .typoTwo{
@@ -78,6 +80,7 @@ body{
 span {
     font-weight: bold;
 }
+
 
 main{
     max-width: 736px;
